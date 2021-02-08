@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "787691306012",
+    "project_id": "tablex-af207",
+    "storage_bucket": "tablex-af207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787691306012:android:52898260bd32f6344bb3d9",
+        "android_client_info": {
+          "package_name": "com.example.tablex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787691306012-ls57nm87marrv52r8mf5c0h2mc0dnr08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tablex",
+            "certificate_hash": "8584fed095bdd274f9c347c9327ba38c2288d0b9"
+          }
+        },
+        {
+          "client_id": "787691306012-fvhq1mhcuj5vmks1mhhoh9kr8h9gl82r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8a0N755J3CMD51IWhW3b_CinYnNsfekI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787691306012-fvhq1mhcuj5vmks1mhhoh9kr8h9gl82r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
